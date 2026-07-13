@@ -1,0 +1,1 @@
+{"_invocation_id": "22238d57-d705-4568-9835-6b45a4f32c0a", "linked": {"0": {"name": "model.ec_pipeline.stg_orders", "type": "model", "succ": [1, 2]}, "1": {"name": "model.ec_pipeline.sales_summary", "type": "model"}, "2": {"name": "model.ec_pipeline.customer_summary", "type": "model"}}}
